@@ -1,5 +1,11 @@
-## Hi👋, I'm Yamini
 
+<h1 align="center">Hi👋, I'm Yamini </h1>
+<h3 align="center">A Computer Science and Engineering student</h3>
+
+- 🌱 I’m currently working on AI/ML.
+- 👯I’m looking to collaborate on Machine Learning projects.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminimasand&label=Profile%20views&color=0e75b6&style=flat" alt="yaminimasand" /> </p>
 <h3>Connect with me:</h3>
             <p>
                 <a href="mailto:yamini.masand2004@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"  height="35" width="35" /></a>
