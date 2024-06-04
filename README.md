@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently working on AI/ML.
 - 👯I’m looking to collaborate on Machine Learning projects.
+- 📫 How to reach me: yamini.masand2004@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminimasand&label=Profile%20views&color=0e75b6&style=flat" alt="yaminimasand" /> </p>
 <h3>Connect with me:</h3>
             <p>
-                <a href="mailto:yamini.masand2004@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"  height="35" width="35" /></a>
                 <a href="https://www.linkedin.com/in/yamini-masand-236215246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" /></a>
             </p>
 
@@ -26,6 +26,10 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="mysql" width="35" height="35">
             </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaminimasand&show_icons=true&locale=en&layout=compact" alt="yaminimasand" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaminimasand&" alt="yaminimasand" /></p>
 <!--
 **yaminimasand/yaminimasand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
