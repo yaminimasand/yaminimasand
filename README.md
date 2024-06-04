@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi👋, I'm Yamini
+
+<h3>Connect with me:</h3>
+            <p>
+                <a href="mailto:yamini.masand2004@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"  height="35" width="35" /></a>
+                <a href="https://www.linkedin.com/in/yamini-masand-236215246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" /></a>
+            </p>
 
 <!--
 **yaminimasand/yaminimasand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
