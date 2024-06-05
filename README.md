@@ -3,7 +3,7 @@
 <h3 align="center">A Computer Science and Engineering student</h3>
 
 - 🌱 I’m currently working on AI/ML.
-- 👯I’m looking to collaborate on Machine Learning projects.
+- 👯 I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me: yamini.masand2004@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaminimasand&label=Profile%20views&color=0e75b6&style=flat" alt="yaminimasand" /> </p>
